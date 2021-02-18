@@ -6,8 +6,13 @@ Inicializado con "git init"
 ### 4. Crea una carpeta llamada unidades y dentro de esta carpeta dos ficheros llamados
 
 ### 5. Pasa los ficheros y directorios a preparado
+Con "git add --all"
 ### 6. Confirma los ficheros con un commit “Index”
+Con "git commit -m "Index""
 ### 7. Modifica el texto del ultimo commit poniendo “ Index y unidades 1 y 2 “
+
+Con "git commit --amend"
+
 ### 8. Modifica el fichero unidad2.txt eliminando todo su contenido
 ### 9. Pasa a preparado de nuevo el fichero unidad2.txt
 ### 10. Mira el estado del proyecto
