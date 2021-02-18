@@ -15,9 +15,15 @@ Con "git commit --amend"
 
 ### 8. Modifica el fichero unidad2.txt eliminando todo su contenido
 ### 9. Pasa a preparado de nuevo el fichero unidad2.txt
+Con "git add --all"
 ### 10. Mira el estado del proyecto
+Con "git status"
 ### 11. Realiza otra confirmación con comentario “Eliminado texto de unidad 2”
+Con "git commit -m "Eliminado texto de unidad 2""
 ### 12. Visualiza el log de todo el proyectos
+Con "git log"
 ### 13. Vuelve atrás al commit inicial de Index y unidades 1 y 2
+Con "git checkout (id del commit)"
 ### 14. Vuelve al estado final del proyecto (antes de la vuelta atrás)
+Con "git checkout (id del commit)"
 ### 15. Crea un repositorio público en tu GITHUB y haz un push de todo el proyecto.
